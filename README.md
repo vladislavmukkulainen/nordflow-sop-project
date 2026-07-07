@@ -25,7 +25,7 @@ Tämä repo demonstroi kykyä toimia **hybridikonsulttina**, joka pystyy sekä y
 ## Projektin eteneminen
 
 - [x] Vaihe 1: Liiketoimintakonteksti ja ongelman määrittely
-- [ ] Vaihe 2: Agile-projektisuunnitelma
+- [x] Vaihe 2: Agile-projektisuunnitelma
 - [ ] Vaihe 3: Synteettinen data (ERP/CRM)
 - [ ] Vaihe 4: SQL — datan konsolidointi
 - [ ] Vaihe 5: Python — kysyntäennuste ja anomaliatunnistus
