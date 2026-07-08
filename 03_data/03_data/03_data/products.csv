@@ -1,0 +1,7 @@
+product_id,product_name,category,unit_cost
+P001,ChefMix 3000 -yleiskone,Yleiskoneet,65.0
+P002,ChefMix Pro -yleiskone,Yleiskoneet,95.0
+P003,BrewDay -kahvinkeitin,Kahvinkeittimet,28.0
+P004,BrewDay Deluxe -kahvinkeitin,Kahvinkeittimet,42.0
+P005,QuickBlend -tehosekoitin,Pienlaitteet,22.0
+P006,ToastPro -leivänpaahdin,Pienlaitteet,18.0

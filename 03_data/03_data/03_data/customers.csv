@@ -1,0 +1,61 @@
+customer_id,customer_name,region,segment
+C001,Jälleenmyyjä 1,Pohjois-Pohjanmaa,Verkkokauppa
+C002,Jälleenmyyjä 2,Varsinais-Suomi,Pieni jälleenmyyjä
+C003,Jälleenmyyjä 3,Keski-Suomi,Keskisuuri jälleenmyyjä
+C004,Jälleenmyyjä 4,Varsinais-Suomi,Suuri jälleenmyyjä
+C005,Jälleenmyyjä 5,Varsinais-Suomi,Verkkokauppa
+C006,Jälleenmyyjä 6,Pohjois-Pohjanmaa,Suuri jälleenmyyjä
+C007,Jälleenmyyjä 7,Varsinais-Suomi,Suuri jälleenmyyjä
+C008,Jälleenmyyjä 8,Pirkanmaa,Pieni jälleenmyyjä
+C009,Jälleenmyyjä 9,Pirkanmaa,Keskisuuri jälleenmyyjä
+C010,Jälleenmyyjä 10,Keski-Suomi,Pieni jälleenmyyjä
+C011,Jälleenmyyjä 11,Pirkanmaa,Pieni jälleenmyyjä
+C012,Jälleenmyyjä 12,Pohjois-Pohjanmaa,Suuri jälleenmyyjä
+C013,Jälleenmyyjä 13,Varsinais-Suomi,Pieni jälleenmyyjä
+C014,Jälleenmyyjä 14,Pirkanmaa,Suuri jälleenmyyjä
+C015,Jälleenmyyjä 15,Pohjois-Pohjanmaa,Keskisuuri jälleenmyyjä
+C016,Jälleenmyyjä 16,Varsinais-Suomi,Keskisuuri jälleenmyyjä
+C017,Jälleenmyyjä 17,Pohjois-Pohjanmaa,Pieni jälleenmyyjä
+C018,Jälleenmyyjä 18,Varsinais-Suomi,Verkkokauppa
+C019,Jälleenmyyjä 19,Keski-Suomi,Keskisuuri jälleenmyyjä
+C020,Jälleenmyyjä 20,Pirkanmaa,Verkkokauppa
+C021,Jälleenmyyjä 21,Pohjois-Pohjanmaa,Pieni jälleenmyyjä
+C022,Jälleenmyyjä 22,Pirkanmaa,Keskisuuri jälleenmyyjä
+C023,Jälleenmyyjä 23,Keski-Suomi,Keskisuuri jälleenmyyjä
+C024,Jälleenmyyjä 24,Pohjois-Pohjanmaa,Keskisuuri jälleenmyyjä
+C025,Jälleenmyyjä 25,Pohjois-Pohjanmaa,Keskisuuri jälleenmyyjä
+C026,Jälleenmyyjä 26,Varsinais-Suomi,Verkkokauppa
+C027,Jälleenmyyjä 27,Pohjois-Pohjanmaa,Keskisuuri jälleenmyyjä
+C028,Jälleenmyyjä 28,Pohjois-Pohjanmaa,Keskisuuri jälleenmyyjä
+C029,Jälleenmyyjä 29,Pirkanmaa,Pieni jälleenmyyjä
+C030,Jälleenmyyjä 30,Keski-Suomi,Verkkokauppa
+C031,Jälleenmyyjä 31,Pirkanmaa,Keskisuuri jälleenmyyjä
+C032,Jälleenmyyjä 32,Pirkanmaa,Verkkokauppa
+C033,Jälleenmyyjä 33,Pohjois-Pohjanmaa,Suuri jälleenmyyjä
+C034,Jälleenmyyjä 34,Keski-Suomi,Keskisuuri jälleenmyyjä
+C035,Jälleenmyyjä 35,Pirkanmaa,Pieni jälleenmyyjä
+C036,Jälleenmyyjä 36,Pirkanmaa,Verkkokauppa
+C037,Jälleenmyyjä 37,Pohjois-Pohjanmaa,Pieni jälleenmyyjä
+C038,Jälleenmyyjä 38,Uusimaa,Keskisuuri jälleenmyyjä
+C039,Jälleenmyyjä 39,Keski-Suomi,Suuri jälleenmyyjä
+C040,Jälleenmyyjä 40,Uusimaa,Pieni jälleenmyyjä
+C041,Jälleenmyyjä 41,Pohjois-Pohjanmaa,Keskisuuri jälleenmyyjä
+C042,Jälleenmyyjä 42,Varsinais-Suomi,Keskisuuri jälleenmyyjä
+C043,Jälleenmyyjä 43,Varsinais-Suomi,Pieni jälleenmyyjä
+C044,Jälleenmyyjä 44,Varsinais-Suomi,Suuri jälleenmyyjä
+C045,Jälleenmyyjä 45,Pirkanmaa,Suuri jälleenmyyjä
+C046,Jälleenmyyjä 46,Uusimaa,Pieni jälleenmyyjä
+C047,Jälleenmyyjä 47,Pirkanmaa,Suuri jälleenmyyjä
+C048,Jälleenmyyjä 48,Keski-Suomi,Pieni jälleenmyyjä
+C049,Jälleenmyyjä 49,Varsinais-Suomi,Pieni jälleenmyyjä
+C050,Jälleenmyyjä 50,Varsinais-Suomi,Suuri jälleenmyyjä
+C051,Jälleenmyyjä 51,Varsinais-Suomi,Pieni jälleenmyyjä
+C052,Jälleenmyyjä 52,Pirkanmaa,Keskisuuri jälleenmyyjä
+C053,Jälleenmyyjä 53,Varsinais-Suomi,Pieni jälleenmyyjä
+C054,Jälleenmyyjä 54,Pirkanmaa,Suuri jälleenmyyjä
+C055,Jälleenmyyjä 55,Keski-Suomi,Keskisuuri jälleenmyyjä
+C056,Jälleenmyyjä 56,Uusimaa,Keskisuuri jälleenmyyjä
+C057,Jälleenmyyjä 57,Pohjois-Pohjanmaa,Verkkokauppa
+C058,Jälleenmyyjä 58,Keski-Suomi,Pieni jälleenmyyjä
+C059,Jälleenmyyjä 59,Keski-Suomi,Keskisuuri jälleenmyyjä
+C060,Jälleenmyyjä 60,Varsinais-Suomi,Pieni jälleenmyyjä

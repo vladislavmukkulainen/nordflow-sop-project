@@ -26,7 +26,7 @@ Tämä repo demonstroi kykyä toimia **hybridikonsulttina**, joka pystyy sekä y
 
 - [x] Vaihe 1: Liiketoimintakonteksti ja ongelman määrittely
 - [x] Vaihe 2: Agile-projektisuunnitelma
-- [ ] Vaihe 3: Synteettinen data (ERP/CRM)
+- [x] Vaihe 3: Synteettinen data (ERP/CRM)
 - [ ] Vaihe 4: SQL — datan konsolidointi
 - [ ] Vaihe 5: Python — kysyntäennuste ja anomaliatunnistus
 - [ ] Vaihe 6: Power BI -dashboard
